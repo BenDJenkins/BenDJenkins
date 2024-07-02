@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm a PhD student working on the application of big data and machine learning to granular material simulations to better understand how powders work...
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+[![BenDJenkins' GitHub stats](https://github-readme-stats.vercel.app/api?username=bendjenkins)](https://github.com/BenDJenkins/github-readme-stats)
+
 <!--
 **BenDJenkins/BenDJenkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
