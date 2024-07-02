@@ -6,7 +6,7 @@ I'm a PhD student working on the application of big data and machine learning to
 <summary>
   More stuff about me
 </summary>
-[![BenDJenkins' GitHub stats](https://github-readme-stats.vercel.app/api?username=BenDJenkins)](https://github.com/anuraghazra/github-readme-stats)
+[![BenDJenkins' GitHub stats](https://github-readme-stats.vercel.app/api?username=bendjenkins)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BenDJenkins/BenDJenkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
