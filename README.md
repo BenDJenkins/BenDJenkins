@@ -5,6 +5,7 @@ I'm a PhD student with a background in Chemical Engineering working on the appli
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BenDJenkins&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>
+ 
 
 - 🔭 I’m currently a PhD student at the University of Birmingham working on a industrial project with Granutools!
 - 🌱 I’m currently blending my knowledge of DEM simulation with big data analytics and machine learning!
